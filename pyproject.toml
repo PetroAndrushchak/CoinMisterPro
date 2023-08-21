@@ -7,6 +7,12 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
+selenium-stealth = "^1.0.6"
+selene = {version = "^2.0.0rc3.post2", allow-prereleases = true}
+webdrivermanager = "^0.10.0"
+selenium = "4.11.2"
+beautifulsoup4 = "^4.12.2"
+requests = "^2.31.0"
 
 
 [build-system]
